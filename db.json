@@ -1,5 +1,5 @@
-{"burgers":
-  [
+{
+  "burgers": [
     {
       "id": 1,
       "name": "Good Burger",
@@ -65,6 +65,30 @@
       "name": "Cow-abunga",
       "description": "Mooooo",
       "image": "http://www.foodwithfeelings.com/wp-content/uploads/2013/06/ab44_the-fat-cow-ramsay-gordon-6-e1352887255279.jpg"
+    },
+    {
+      "name": "Krabby Patty",
+      "description": "Made in Bikini Bottom",
+      "image": "https://vignette.wikia.nocookie.net/spongebob/images/d/d4/Krabby_Patty_transparentpng.png/revision/latest?cb=20170310181007",
+      "id": 12
+    },
+    {
+      "name": "Krabby Patty",
+      "description": "Made in Bikini Bottom",
+      "image": "https://vignette.wikia.nocookie.net/spongebob/images/d/d4/Krabby_Patty_transparentpng.png/revision/latest?cb=20170310181007",
+      "id": 13
+    },
+    {
+      "name": "SouthWest Burger",
+      "description": "Actually made in the northeast",
+      "image": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fcdn-image.myrecipes.com%2Fsites%2Fdefault%2Ffiles%2Fstyles%2Fmedium_2x%2Fpublic%2Fimage%2Frecipes%2Fck%2F13%2F07%2Fsouthwest-burger-ck-x.jpg%3Fitok%3DZ43xbiX8&w=450&c=sc&poi=face&q=85",
+      "id": 14
+    },
+    {
+      "name": "somethin",
+      "description": "cool",
+      "image": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fcdn-image.myrecipes.com%2Fsites%2Fdefault%2Ffiles%2Fstyles%2Fmedium_2x%2Fpublic%2Fimage%2Frecipes%2Fck%2F13%2F07%2Fsouthwest-burger-ck-x.jpg%3Fitok%3DZ43xbiX8&w=450&c=sc&poi=face&q=85",
+      "id": 15
     }
   ]
 }
